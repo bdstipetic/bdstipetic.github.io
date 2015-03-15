@@ -52,4 +52,32 @@ table {
 
 /* -----------------END RESET---------------- */
 
+p{	fl:left;
+	font-family:helvetica;
+	font-size: 9px;
+	padding: 10px;
+	margin: 10px;
+}
+
+h1{ fl:left;
+	font-family:helvetica;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+h2{ fl:left;
+	font-family:helvetica;
+	font-size: 12px;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
 
