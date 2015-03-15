@@ -56,12 +56,22 @@ table {
 h1{
 	font-size: 21px;
 	font-family: georgia;
+	font-variant: bold;
+	float: right;
+	margin: 10px;
 }
 
 h2{
 	font-size: 12px;
 	font-family: georgia;
 	padding: 5px;
+}
+
+h3{
+	font-size: 9px;
+	font-family: georgia;
+	font-variant: bold;
+
 }
 
 li{
