@@ -65,12 +65,14 @@ h2{
 	font-size: 12px;
 	font-family: georgia;
 	padding: 5px;
+	float: right;
 }
 
 h3{
 	font-size: 9px;
 	font-family: georgia;
 	font-variant: bold;
+	float: right;
 
 }
 
@@ -82,5 +84,6 @@ li{
 p{
 	font-size: 9px;
 	font-family: helvetica;
+	float: right;
 }
 
