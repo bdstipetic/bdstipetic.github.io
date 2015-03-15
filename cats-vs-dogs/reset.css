@@ -5,5 +5,11 @@ nav{font-family: georgia;
 	margin: 10px;
 	text-transform: uppercase;
 	color: black;
-	
+
+}
+
+p{float: left;
+	margin: 20px;
+	padding: 20px;
+
 }
