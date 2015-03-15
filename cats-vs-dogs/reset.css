@@ -1,4 +1,5 @@
-nav{font-family: georgia;
+nav{
+	font-family: georgia;
 	font-size: 20px;
 	float: left;
 	padding: 15px;
@@ -8,7 +9,8 @@ nav{font-family: georgia;
 
 }
 
-p{float: left;
+p{
+	float: left;
 	margin: 20px;
 	padding: 20px;
 

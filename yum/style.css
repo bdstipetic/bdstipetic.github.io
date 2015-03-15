@@ -53,4 +53,24 @@ table {
 
 /* END RESET */
 
+h1{
+	font-size: 21px;
+	font-family: georgia;
+}
+
+h2{
+	font-size: 12px;
+	font-family: georgia;
+	padding: 5px;
+}
+
+li{
+	font-size: 9px;
+	font-family: helvetica;
+	padding: 5px;
+
+p{
+	font-size: 9px;
+	font-family: helvetica;
+}
 
