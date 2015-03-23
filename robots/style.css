@@ -50,3 +50,64 @@ table {
 	border-spacing: 0;
 }
 
+
+
+nav{
+	font-size: 10px;
+	font-family: helvetica;
+	text-transform: uppercase;
+	color:white;
+
+
+	float:center;
+	padding-left:300px;
+	padding: 10px;
+	background-color: yellow;
+
+}
+
+li{float: left;
+	padding: 20px;
+	background-color: gray;
+	color: white;
+
+}
+
+h1{font-family: helvetica;
+	font-size: 20px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+
+}
+
+h2{
+	font-size: 12px;
+	font-family: helvetica;
+	padding-bottom: 10px;
+
+}
+
+
+article{
+	font-family: helvetica;
+	font-size: 9px;
+	width: 400px;
+	padding-left: 300px;
+	line-height: 12px;
+}
+
+p{
+	padding-bottom: 10px;
+
+
+# footer-wrapper{ 
+
+float: right;
+padding-left: 400px;
+}
+
+
+
+
+
+}
