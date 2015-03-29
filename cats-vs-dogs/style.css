@@ -70,6 +70,15 @@ nav {font-size: 30px;
 nav li {
 	display: inline-block;
 	text-align: center;
+	font-family: 20px;
+	font-family: georgia;
+	font-weight: bold;
+	padding-right: 30px;
+	padding-left: 30px;
+
+
+
+
 }
 
 nav img {
@@ -100,6 +109,10 @@ p{
 
 }
 
+section{
+	margin: 0 auto;
+	width: 45%;
+}
 
 article {
 	float: left;
@@ -110,6 +123,7 @@ article {
 
 
 footer{
+clear: 
 
 }
 
