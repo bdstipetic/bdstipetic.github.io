@@ -58,8 +58,7 @@ body {
 }
 
 header {
-	
-text-align: center;
+	text-align: center;
 }
 
 nav {font-size: 30px;
@@ -75,24 +74,18 @@ nav li {
 	font-weight: bold;
 	padding-right: 30px;
 	padding-left: 30px;
-
-
-
-
 }
 
 nav img {
 		display: inline-block;
 		text-align: center;
-
-}
+	}
 
 article img {
 	display: inline-block;
 	text-align: center;
-	width: 400px;
-
-}
+	width:400px;
+	}
 
 h1{
 	font-family: georgia;
@@ -109,7 +102,7 @@ p{
 
 }
 
-section{
+section {
 	margin: 0 auto;
 	width: 45%;
 }
