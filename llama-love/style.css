@@ -52,11 +52,17 @@ table {
 
 /* -----------------END RESET---------------- */
 
+
+article img {
+	display: inline-block;
+	text-align: center;}
+
+
 article{
 		float: left;
 		width: 45%;
 		margin: 2.5%;
-		font-size: 9px;
+		font-size: 10px;
 		font-family: arial;
 		line-height: 12px;
 		width: 350px;
@@ -89,6 +95,9 @@ h2{
 	color: gray;
 	padding-bottom: 10px;
 	}
+
+br{padding-top: 10px;
+}
 
 
 
