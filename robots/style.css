@@ -58,12 +58,10 @@ nav{
 	text-transform: uppercase;
 	color:white;
 
-
-	float:center;
-	padding-left:300px;
-	padding: 10px;
-	background-color: yellow;
-
+display: inline-block;
+text-align: center;
+background-color: brown;
+width: 100%;
 }
 
 li{float: left;
@@ -98,15 +96,18 @@ article{
 
 p{
 	padding-bottom: 10px;
-
-
-# footer-wrapper{ 
-
-float: right;
-padding-left: 400px;
 }
 
+ul {
 
+	display: inline-block;
+	text-align: right;
+	width: 45%;
+}
+
+article img{display: inline-block;
+			text-align: right;
+			width: 45%;}
 
 
 
