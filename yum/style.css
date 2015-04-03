@@ -53,41 +53,16 @@ table {
 
 /* END RESET */
 
-h1{
-	font-size: 21px;
-	font-family: georgia;
-	font-variant: bold;
-	padding-bottom: 10px;
-	text-decoration: underline;
+
+body{
+	color: red;
 }
 
-h2{
-	font-size: 14px;
-	font-family: georgia;
-	padding-bottom: 10px;
-	padding-top: 10px;
+.first {
+	float: right;
+	padding-left: 10px;
 }
 
-h3{
-	font-size: 9px;
-	font-family: georgia;
-	font-variant: bold;
-	text-transform: uppercase;
-	padding-bottom: 10px;
-}
-
-article{
-	font-size: 9px;
-	font-family: helvetica;
-	width:400px;
-
-}
-
-
-p{
-	font-size: 9px;
-	font-family: helvetica;
-
-
-}
+.second {float: left;
+width: 45%;}
 
