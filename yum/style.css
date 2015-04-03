@@ -53,16 +53,83 @@ table {
 
 /* END RESET */
 
+h1 {
+	font-family: georgia;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+}
 
-body{
-	color: red;
+li {
+	line-height: 14px;
+}
+
+.third li {
+	line-height: 25px;
+}
+
+	
+body {
+	font-family: helvetica;
+	font-size: 11px;
+
+}
+
+h2 {
+	font-family: georgia;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+}
+
+h3 {
+	float: left;
+	width: 45%;
+	text-align: left;
 }
 
 .first {
 	float: right;
-	padding-left: 10px;
+	width: 45%;
+	clear: right;
+	}
+
+.second {float: right;
+		 width: 45%;
+		 clear: right;}
+
+.third {
+		float: left;
+		width: 45%;
+		clear: left;
+		padding-bottom: 20;
+		text-align: right;
 }
 
-.second {float: left;
-width: 45%;}
+.preparation {
+		text-align: left;
+
+}
+
+	.second li {
+		padding-bottom: 15px;
+	}
+
+	.ingredients {
+		padding-bottom: 10px;
+		padding-top: 10px;
+		padding-left: 84.5%;
+	}
+
+	.what-you-need {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		text-align: left;
+		padding-left: 84%;
+
+	}
+
+
+article { 
+		  padding-bottom: 15px;}
 
