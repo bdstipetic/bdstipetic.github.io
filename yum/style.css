@@ -56,8 +56,10 @@ table {
 h1 {
 	font-family: georgia;
 	font-size: 20px;
+	width: 95%;
 	font-weight: bold;
-	text-align: left;
+	text-align: right;
+	padding-bottom: 10px;
 }
 
 li {
@@ -84,9 +86,23 @@ h2 {
 
 h3 {
 	float: left;
-	width: 45%;
-	text-align: left;
+	width: 95%;
+	text-align: right;
+	font-family: georgia;
+	font-size: 14px;
+	padding-bottom: 20px;
 }
+
+hr.style4 {
+	border-top: 1px dotted #8c8b8b;
+	float: right;
+	width: 45%;
+	clear: right;
+
+
+}
+	
+
 
 .first {
 	float: right;
