@@ -29,86 +29,84 @@ time, mark, audio, video {
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+	display: block;}
 
 
-
-nav{
-	font-size: 10px;
-	font-family: helvetica;
-	text-transform: uppercase;
-	color:white;
-
-display: inline-block;
-text-align: center;
-background-color: brown;
-width: 100%;
+#site-header {
+	margin: 0 auto;
+	width: 80%;
 }
 
-li{float: left;
-	padding: 20px;
-	background-color: gray;
-	color: white;
+#header h1 {
+	float: left;
+	width: 50%;
 
 }
 
-h1{font-family: helvetica;
-	font-size: 20px;
-	padding-bottom: 10px;
-	text-transform: uppercase;
+#top-nav {
+	float: right;
+	width: 50%;
 
 }
 
-h2{
-	font-size: 12px;
-	font-family: helvetica;
-	padding-bottom: 10px;
+#site-wrapper {
+	background-color: green;
+	height: 100px;
+}
+
+#menu-wrapper {
+	background-color: brown;
+	clear: both;
+}
+
+#page {
+	float: left;
+	width: 60%;
+	margin-right:5%;
+}
+
+#sidebar {
+float: left;
+width: 30%;
+margin-left: 5%;
+}
+
+#main-menu { 
+margin: 0 auto;
+width: 80%;
+float: left;}
+
+#main-menu li {
+	float: left;}
+}
+
+#content-wrapper {
+		background-color: light-gray;
+		clear: both;
 
 }
 
+#content {
+	margin: 0 auto;
+	width: 80%;}
 
-article{
-	font-family: helvetica;
-	font-size: 9px;
-	width: 400px;
-	padding-left: 300px;
-	line-height: 12px;
+	#footer-wrapper {
+		background-color: brown;
+		margin: 0 auto;
+		width: 80%;
+		height: 50px;
+		clear: both;
+	}
+
+#footer-contact {
+	float: left;
+	width: 50%;
+}
+#footer-follow {
+	float: right;
+	width: 50%;
 }
 
-p{
-	padding-bottom: 10px;
-}
-
-ul {
-
-	display: inline-block;
-	text-align: right;
-	width: 45%;
-}
-
-article img{display: inline-block;
-			text-align: right;
-			width: 45%;}
-
-
-
+#footer-follow li {
+	float: left;
 }

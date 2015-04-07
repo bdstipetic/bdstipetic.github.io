@@ -81,15 +81,13 @@ nav img {
 		text-align: center;
 	}
 
-article img {
-	display: inline-block;
-	text-align: center;
-	width:400px;
-	}
+article img { 
+			width: 100%;
+			margin: 10px;}
 
 h1{
 	font-family: georgia;
-	font-size: 25px;
+	font-size: 27px;
 	font-weight: bold;
 	padding-bottom: 20px;
 }
@@ -98,7 +96,7 @@ p{
 	font-size: 16px;
 	font-family: georgia;
 	line-height: 20px;
-	width: 400px;
+	width: 45%;
 
 }
 
@@ -115,8 +113,7 @@ article {
 
 
 
-footer{
-clear: 
 
-}
+
+
 

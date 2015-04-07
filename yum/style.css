@@ -53,6 +53,12 @@ table {
 
 /* END RESET */
 
+body {
+	margin: 0 auto;
+	width: 80%;
+}
+
+
 h1 {
 	font-family: georgia;
 	font-size: 20px;
@@ -98,7 +104,6 @@ hr.style4 {
 	float: right;
 	width: 45%;
 	clear: right;
-
 
 }
 	
