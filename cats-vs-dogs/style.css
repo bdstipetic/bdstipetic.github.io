@@ -61,7 +61,7 @@ header {
 	text-align: center;
 }
 
-nav {font-size: 30px;
+nav { font-size: 2em;
 	font-family: georgia;
 
 }
@@ -69,7 +69,7 @@ nav {font-size: 30px;
 nav li {
 	display: inline-block;
 	text-align: center;
-	font-family: 20px;
+	font-size: 1.5em;
 	font-family: georgia;
 	font-weight: bold;
 	padding-right: 30px;
@@ -79,23 +79,26 @@ nav li {
 nav img {
 		display: inline-block;
 		text-align: center;
+		max-width: 100%;
 	}
 
 article img { 
 			width: 100%;
-			margin: 10px;}
+			margin: 10px;
+			max-width: 100%;
+		}
 
 h1{
 	font-family: georgia;
-	font-size: 27px;
+	font-size: 1.5em;
 	font-weight: bold;
 	padding-bottom: 20px;
 }
 
 p{
-	font-size: 16px;
+	font-size: 1em;
 	font-family: georgia;
-	line-height: 20px;
+	line-height: 1.5em;
 	width: 45%;
 
 }
