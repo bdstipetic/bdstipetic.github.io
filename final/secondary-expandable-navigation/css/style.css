@@ -1,3 +1,82 @@
+
+#section {
+  width: 45%;
+  height: 50px;
+
+}
+
+#main-choices {
+  text-align: center;
+  margin: 0 auto;
+  padding-left: 45%;
+}
+
+img {
+display: inline-block;
+padding-top: 5%;
+width: 45%;
+margin: 1%;
+}
+
+h1 {
+  font-size: 2em;
+  padding-bottom: 10px;
+ 
+}
+h2 {
+  font-size: 1.25em.
+}
+p {
+  padding-bottom: 10px;
+  
+  font-size: 1em;
+  line-height: 1.4em;
+}
+
+
+#food-quad {
+  width: 100%;
+display: inline-block;
+text-align: center;
+
+
+}
+
+#content {
+  text-align: center;
+}
+
+
+
+#brunch {
+ float: left;
+width: 45%;
+
+}
+
+#dinner {
+float: left;
+width: 45%;
+
+}
+
+
+#lunch {
+float: right;
+width: 45%;
+margin: 0 auto;
+text-align: center;
+
+}
+
+#bar-food {
+float: right;
+width: 45%;
+margin: 0 auto;
+text-align: center;
+
+}
+
 /* -------------------------------- 
 
 Primary style
